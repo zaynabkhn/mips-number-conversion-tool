@@ -1,19 +1,19 @@
 MIPS Number Conversion Tool
-This is a simple MIPS Assembly program that converts a user-input decimal number into its binary and hexadecimal representations and prints the results.
 
-Features
-Input: Reads an integer number from the user.
+*******This is a simple MIPS Assembly program that converts a user-input decimal number into its binary and hexadecimal representations and prints the results.*******
 
-Output: Displays the number in binary and hexadecimal formats.
+Features:
+-Input: Reads an integer number from the user.
 
-Demonstrates core MIPS concepts including loops, division/modulo operations, ASCII output, and user I/O.
+-Output: Displays the number in binary and hexadecimal formats.
 
-How to Use
-Open the .asm file in the MARS MIPS Simulator.
+-Demonstrates core MIPS concepts including loops, division/modulo operations, ASCII output, and user I/O.
 
-Assemble and run the program.
+How to Use:
+-Open the .asm file in the MARS MIPS Simulator.
 
-Enter a decimal number when prompted.
+-Assemble and run the program.
 
-View the binary and hexadecimal outputs.
+-Enter a decimal number when prompted.
 
+-View the binary and hexadecimal outputs.
